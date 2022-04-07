@@ -1,6 +1,11 @@
 .card-item {
   background: #1a242f;
   cursor: pointer;
+  transition: all 300ms;
+}
+
+.card-item:hover {
+  transform: scale(1.1);
 }
 
 .card-top {

@@ -1,8 +1,10 @@
-.movie-list {
+.movie-list,
+.shows-list {
   margin: 20px 0px;
 }
 
-.movie-list h2 {
+.movie-list h2,
+.shows-list {
   color: #fff;
   margin-bottom: 10px;
   font-weight: 400;
